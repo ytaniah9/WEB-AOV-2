@@ -4,7 +4,6 @@
 	<title> TUGAS </title>
 	<style type="text/css">
 	/* contoh element HTML */
-
 	ol, ul {
 		color: red;
 		}
@@ -28,18 +27,13 @@
 		<td><font color="red">Daftar</font></td>
 	</tr>
 </table>
-<table style="border:0;border-collapse: collapse;;border-spacing:0">
-	<tr bgcolor="black">
-		<td width="1340">
-		<td>
-			<font width="1100" color="white">Berita</font></td>
-			<td>
-			<font width="1100" color="white">Panduan</font></td>
-			<td>
-			<font width="1100" color="white">Download</font></td>
-		</td>
-	</tr>
-</table>
+	<nav>
+		<ul>
+			<li><a href="#">BERITA</a></li>
+			<li><a href="#">PANDUAN</a></li>
+			<li><a href="#">DOWNLOAD</a></li>
+		</ul>
+	</nav>
 <table style="border:0;border-collapse: collapse;;border-spacing:0">
 		<td height="100" width="100">
 			<img src="og_img.jpg" height="555" width="1330">
